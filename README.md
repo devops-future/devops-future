@@ -8,7 +8,7 @@
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
-- 📫 Contact me **[Join on Skype](https://join.skype.com/invite/gice101582)** and **<a href="mailto:gice101582@gmail.com">Send Mail</a>** if you need my help.
+- 📫 Contact me **[Join on Skype](https://join.skype.com/invite/vTdSTSbmWZXh)** and **<a href="mailto:gice101582@gmail.com">Send Mail</a>** if you need my help.
 
 #### MY SKILLS
     ✔ React/Next/Redux toolkit, Vue/Nuxt, Angular, Node/Express, ES5/ES6/Typescript
@@ -24,6 +24,6 @@
     ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku
     ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency
     
-<p align="center">
+<!--p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devops-future&column=7&theme=onedark"/>
-</p>
+</p-->
