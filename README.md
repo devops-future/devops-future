@@ -24,6 +24,6 @@
     ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku
     ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency
     
-<!--p align="center">
+<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devops-future&column=7&theme=onedark"/>
-</p-->
+</p>
